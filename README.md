@@ -1,6 +1,17 @@
 
 # FIFA_moneyball_project_OCT92021  
-![photo](994544532.jpg)
+![photo](994544532.jpg) 
+# About the data set 
+   Covers FIFA game stats of players over a 5 year continuum, some stats include 
+      - ID
+      - Name
+      - Age
+      - OVA
+      - Nationality
+      - Club 
+      - Position 
+   With a total of 99 columns and 17125 rows. 
+      
 # Objective/Question 
 
 # How to tackle it 
